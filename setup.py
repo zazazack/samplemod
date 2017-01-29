@@ -16,7 +16,7 @@ setup(
     long_description=readme,
     author='Zachary Wilson',
     author_email='wilsonze@gmail.com',
-    url='https://github.com/kennethreitz/samplemod',
+    url='https://github.com/zazazack/samplemod',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
